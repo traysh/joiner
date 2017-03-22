@@ -13,7 +13,8 @@ const char exclamacao = '!';
 const char fim_de_linha = '\n';
 
 std::string joint = Luvitronics::joiner << cumprimento << nome << fim_de_linha << lembrete << horario << exclamacao << fim_de_linha;
-std::cout << joint;```
+std::cout << joint;
+```
 
 Output:
 ```shell
