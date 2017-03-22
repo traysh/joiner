@@ -5,7 +5,6 @@ int main()
 {
 	const auto cumprimento = "oi, ";
 	const auto nome = "Fulano";
-	
 	const auto lembrete = "Você tem um compromisso às ";
 	const unsigned horario = 16;
 	const char exclamacao = '!';
